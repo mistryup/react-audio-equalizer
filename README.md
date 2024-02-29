@@ -6,7 +6,10 @@ I'm new to React so its probably not the best way of doing things. Hopefully you
 
 TO DO: Me, I plan on adding some screen recording and offering different options for the equaliser. Then perhaps the someone I wrote this for will be happy !! :)
 
+![equaliser-react](https://github.com/mistryup/react-audio-equalizer/assets/84240156/3ac3f14c-4887-4e76-9529-bc9359fc18f2)
+
 ## Available Scripts
+
 
 In the project directory, you can run:
 
