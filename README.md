@@ -2,7 +2,7 @@
 
 I wrote this quickly for fun as someone I know was constantly asking for something like this as they loved Specterr so much !
 
-I dont know much React so its probably not the best way of doing things. Hopefully you can re-write it better for yourselves !
+I'm new to React so its probably not the best way of doing things. Hopefully you can re-write it better for yourselves !
 
 TO DO: Me, I plan on adding some screen recording and offering different options for the equaliser. Then perhaps the someone I wrote this for will be happy !! :)
 
